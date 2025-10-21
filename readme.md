@@ -103,7 +103,3 @@ python main_chat.py
 - `data/` klasöründeki dosya adlarının çok uzun olmamasına dikkat edin (Windows dosya yolu sınırı nedeniyle).
 
 ---
-
-## Lisans
-
-Bu proje iş görüşmesi değerlendirmesi için hazırlanmıştır.
