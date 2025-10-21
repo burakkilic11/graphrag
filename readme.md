@@ -1,7 +1,6 @@
 # GraphRAG
 
 Türkiye enerji sektörü mevzuat dokümanlarını otomatik olarak bilgi grafına dönüştüren, semantik ve ilişkisel arama ile doğal dilde yanıtlar üreten bir GraphRAG (Graph-based Retrieval-Augmented Generation) projesi.
-
 ---
 
 ## Özellikler
@@ -102,4 +101,30 @@ python main_chat.py
 - Okunan/okunamayan dokümanlar `dokuman_listesi.txt` dosyasında listelenir.
 - `data/` klasöründeki dosya adlarının çok uzun olmamasına dikkat edin (Windows dosya yolu sınırı nedeniyle).
 
+## data/ Klasörü Yapısı
+
+Proje, mevzuat PDF dosyalarını `data/` klasöründe bekler. Klasör yapısı aşağıdaki gibi olmalıdır:
+
+```
+data/
+  kurum_adi/
+    mevzuat_turu/
+      belge_adi.pdf
+```
+
+**Açıklama:**
+- `kurum_adi`: Mevzuatı yayımlayan kurumun adı (ör. `epdk`, `tedas`).
+- `mevzuat_turu`: Yönetmelik, usul-esaslar, genelge gibi alt kategori (ör. `yonetmelik`, `usul-esaslar`).
+- `belge_adi.pdf`: İlgili mevzuatın PDF dosyası. Dosya adı, belgeyi tanımlayıcı ve mümkün olduğunca kısa olmalıdır.
+
+**Örnek:**
+```
+data/
+  epdk/
+    yonetmelik/
+      Elektrik_Piyasasi_Lisans_Yonetmeligi.pdf
+  tedas/
+    usul-esaslar/
+      TEDAS_Malzeme_Alim_Usul_Esaslari.pdf
+```
 ---
