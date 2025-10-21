@@ -1,0 +1,52 @@
+Başarıyla Okunabilen Toplam Doküman Sayısı: 15
+Okunamayan/Boş Doküman Sayısı: 25
+--------------------------------------------------
+BAŞARIYLA OKUNAN DOSYALARIN LİSTESİ:
+--------------------------------------------------
+
+teias\kanunlar\233 Sayılı KHK.pdf
+teias\kanunlar\399 Sayılı KHK.pdf
+teias\kanunlar\4628 Eski Elektrik Piyasası Kanunu.pdf
+teias\kanunlar\5346 Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun.pdf
+teias\kanunlar\5429 Türkiye İstatistik Kanunu.pdf
+teias\kanunlar\6446 sayılı Güncel Elektrik Piyasası Kanunu.pdf
+tedas\usul-esaslar\Elektronik Elektrik Sayaçlarının Şartnameye Uygunluk Onayına İlişkin Usul ve Esaslar.pdf
+tedas\usul-esaslar\OSOS Verilerinin Toplanmasına ve Ödemeye İlişkin Usul ve Esaslar.pdf
+tedas\usul-esaslar\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü'nün 4734 sayılı Kamu İhale Kanununun 3 üncü Maddesinin (b) Bendi Kapsamında Yapacağı Mal ve Hizmet Alımları İle Yapım İşleri Hakkında Usul ve Esaslar.pdf
+tedas\yonerge\Türkiye Elektrik Dağıtım A.Ş. Genel Müdürlüğü Teknik Şartname Hazırlanması ve Güncellenmesine Dair Yönerge.pdf
+tedas\yonetmelik\Türkiye Elektrik Dağıtım A.Ş. Genel Müdürlüğü (TEDAŞ) Tesis ve Basılı Evraktan Reklam Amacıyla Yararlanma Esasları Hakkında Yönetmelik.pdf
+tedas\yonetmelik\Türkiye Elektrik Dağıtım A.Ş. Genel Müdürlüğünün 4734 Sayılı Kamu İhale Kanununun 3 üncü maddesinin (g) Bendi Kapsamında Yapacağı Mal ve Hizmet Alımları Hakkında Yönetmelik.pdf
+tedas\yonetmelik\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Hizmet Satışı - Araç ve Gereç Kira Yönetmeliği.pdf
+tedas\yonetmelik\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Taşınmaz Kiraya Verme Yönetmeliği.pdf
+tedas\yonetmelik\Türkiye Elektrik Dağıtım Anonim Şirketi Teftiş Kurulu Yönetmeliği.pdf
+
+
+--------------------------------------------------
+OKUNAMAYAN VEYA BOŞ DOSYALARIN LİSTESİ:
+--------------------------------------------------
+
+tedas\usul-esaslar\7429 Sayılı Kanun Kapsamında Hazırlanmış Usul ve Esaslar.pdf
+tedas\usul-esaslar\Dağıtım Tesislerinin Deplase İptaline İlişkin Uygulanacak Usul ve Esaslar.pdf
+tedas\usul-esaslar\Elektrik Dağıtım Şirketi Tarafından Yapılacak Dağıtım Tesislerinin Deplase İptal Edilmesine İlişkin Protokol.pdf
+tedas\usul-esaslar\Merkezi Güvenlik Kamera Sisteminin İşletilmesine Yönelik Usul ve Esaslar.pdf
+tedas\usul-esaslar\Talep Sahibi Tarafından Yapılacak Dağıtım Tesislerinin Deplase İptal Edilmesine İlişkin Protokol.pdf
+tedas\usul-esaslar\Taşınmaz Teminine İlişkin Usul ve Esaslar.pdf
+tedas\usul-esaslar\TEDAŞ Alacakları ile İlgili Taksitlendirme Uygulama Usul ve Esasları.pdf
+tedas\usul-esaslar\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Elektrik Dağıtım Tesisleri Kabul Süreçlerine İlişkin Usul ve Esaslar.pdf
+tedas\usul-esaslar\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Elektrik Üretim ve Elektrik Depolama Tesisleri Kabul Süreçlerine İlişkin Usul ve Esaslar.pdf
+tedas\usul-esaslar\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Kişisel Verileri Koruma Komisyonu Çalışma Usul ve Esasları.pdf
+tedas\usul-esaslar\Türkiye Elektrik Dağıtım AŞ Genel Müdürlüğü Malzeme Uygunluk Değerlendirmesine İlişkin Usul ve Esaslar.pdf
+tedas\usul-esaslar\Özelleştirme Devir İşlemleri Sırasında Tedaş'a Devredilmiş olan Alacakların 7244 sayılı Kanunun 1.Maddesi kapsamında Yapılandırılmasına İlişkin Uygulama Usul ve Esasları.pdf
+tedas\yonerge\Türkiye Elektrik Dağıtım A.Ş. Genel Müdürlüğü Mevzuat İşlemleri Yönergesi.pdf
+tedas\yonerge\Türkiye Elektrik Dağıtım A.Ş. Genel Müdürlüğü Sigorta Yönergesi.pdf
+tedas\yonerge\Türkiye Elektrik Dağıtım A.Ş. Genel Müdürlüğü Özelleştirilen Elektrik Dağıtım Bölgelerinde Yapılacak Kontrolün Usul ve Esasları Hakkında Yönerge.pdf
+tedas\yonerge\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Ambar Yönergesi.pdf
+tedas\yonerge\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Elektrik Kuvvetli Akım Tesislerinde Yüksek Gerilim Altında Çalışma İzin Belgesi Eğitimi Yönergesi.pdf
+tedas\yonerge\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Hata, Usulsüzlük ve Yolsuzlukların Bildirilmesine Dair Yönerge.pdf
+tedas\yonerge\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Hizmet İçi Eğitim Yönergesi.pdf
+tedas\yonerge\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Konut Yönergesi.pdf
+tedas\yonerge\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Mesleki Eğitim ve Staj Yönergesi.pdf
+tedas\yonerge\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Yapım İşleri Denetim Yönergesi.pdf
+tedas\yonerge\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü İş Sağlığı ve Güvenliği Yönergesi.pdf
+tedas\yonetmelik\Türkiye Elektrik Dağıtım A.Ş. Genel Müdürlüğü (TEDAŞ) Hukuk Müşavirliği Yönetmeliği.pdf
+tedas\yonetmelik\Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü Ekonomik Ömrünü Doldurmuş, İhtiyaç Fazlası ve Hurda Malzeme Değerlendirme ve Satış Yönetmeliği.pdf

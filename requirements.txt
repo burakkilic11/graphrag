@@ -1,0 +1,5 @@
+neo4j
+ollama
+PyMuPDF
+langchain-text-splitters
+python-dotenv

@@ -1,0 +1,98 @@
+--- 2025-10-21 12:50:34 ---
+user_question: "Serbest tüketici" tam olarak ne anlama geliyor ve kimler serbest tüketici olabilir?
+answer: BAĞLAM 5'teki metne göre "Serbest tüketici", Kurul tarafından belirlenen elektrik enerjisi miktarından daha fazla tüketimi bulunduğu veya iletim sistemine doğrudan bağlı olduğu veya organize sanayi bölgesi tüzel kişiliğini haiz olduğu için tedarikçisini seçme hakkına sahip gerçek veya tüzel kişidir.
+
+Yani, serbest tüketici, kendi ihtiyaçlarını karşılamak için elektrik tedarikini kendisi seçme özgürlüğüne sahip olan herhangi bir kişi veya kuruluştur. Bu, belirli bir tüketim miktarına veya elektrik sistemine olan bağımlılığa bağlı olarak ortaya çıkan bir statüdür.
+
+--------------------
+
+--- 2025-10-21 12:53:58 ---
+user_question: Yenilenebilir enerji kaynakları (YEK) nelerdir, kanunda hangileri sayılıyor?
+answer: Bu metne göre, Yenilenebilir Enerji Kaynakları (YEK) hakkında doğrudan bilgi bulunmuyor. Ancak metinde YEK'lerin hangi faaliyetleri gerçekleştirebileceğine dair ipuçları mevcut.
+
+Metinde YEK'lerin aşağıdaki faaliyetleri yaptığı belirtiliyor:
+
+*   **Elektrik enerjisi üretimi:** YEK'lerin temel amacı elektrik üretmektir.
+*   **Piyasa faaliyetleri:** Lisans verilerek piyasada faaliyet yapabilirler.
+
+**Kanunda hangi YEK'ler sayılıyor?**
+
+Metinde açıkça hangi YEK türlerinin sayıldığını belirtmiyor. Ancak, YEK olarak tanımlanabilecek kaynakların, elektrik üretimiyle ilgili faaliyetlerde bulunabileceği vurgulanıyor. Bu, güneş enerjisi, rüzgar enerjisi, hidroelektrik, jeotermal gibi birçok yenilenebilir enerji kaynağını kapsayabilir.
+
+**Özetle:** Metin, YEK'lerin elektrik üretimi ve piyasa faaliyetleri ile ilgilendiğini gösteriyor, ancak hangi spesifik YEK türlerinin bu kanun kapsamında olduğunu belirtmiyor.
+
+--------------------
+
+--- 2025-10-21 12:55:51 ---
+user_question: "Kojenerasyon" ve "Mikrokojenerasyon" arasındaki fark nedir?
+answer: Verilen belgelerden elde edilen bilgilere göre "Kojenerasyon" ve "Mikrokojenerasyon" arasındaki farklar şöyledir:
+
+*   **Kojenerasyon:** Belgelerde açıkça tanımlanmamış olsa da, genellikle bir sistemin hem elektrik üretimini hem de ısı veya başka bir enerji türünü aynı anda yapma işleminden bahsedilir. Bu, büyük ölçekli elektrik santrallerinde yaygın bir uygulamadır.
+
+*   **Mikrokojenerasyon:** "Mikro" kelimesi, küçük ölçekli bir işletmeyi ifade eder.  6446 sayılı Güncel Elektrik Piyasası Kanunu'nda "Mikrokojenerasyon" terimi, **elektrik üretimi hedefi 1 MW'ı aşmayan** ve genellikle küçük ölçekli yenilenebilir enerji projelerinde (örneğin, güneş panelleri, rüzgar türbinleri) kullanılan sistemleri tanımlar. Mikrokojenerasyon tesisleri, elektrik üretimi ile birlikte bu üretilen enerjiyi kendi ihtiyacında kullanır ve fazla enerjiyi şebekeye bağlamaz.
+
+Özetle, mikrokojenerasyon, kojenerasyonun daha küçük ölçekli bir versiyonudur ve genellikle yenilenebilir enerji kaynakları ile birlikte kullanılır.
+--------------------
+
+--- 2025-10-21 12:57:35 ---
+user_question: EPDK'nın temel görevi nedir?
+answer: EPDK'nın temel görevi, metinlerdeki bilgilere göre, piyasa performansının izlenmesinden, performans standartlarının ve dağıtım ve müşteri hizmetleri yönetmeliklerinin oluşturulmasından, tadilinden ve uygulattırılmasından sorumludur. Ayrıca fiyatlandırma esaslarını tespit etmek ve piyasa ihtiyaçlarını dikkate alarak serbest olmayan tüketicilere yapılan elektrik satışında uygulanacak fiyatlandırma esaslarını belirleme yetkisine sahiptir.
+--------------------
+
+--- 2025-10-21 12:59:38 ---
+user_question: KHK 399, KHK 233'ün hangi kısımlarını değiştirmiş veya kaldırmıştır?
+answer: KHK 399, KHK 233'ün belirli kurumların kadrolarını iptal ve ihdas eden ek listesini değiştirmiştir. Özellikle, KHK 399'un EK-5 tablosunda yer alan listede, B.K.K., T.C. Ziraat Bankası, Türkiye Emlak Bankası A.Ş., Emlak Konut A.Ş., Etibank, Türkiye Halk Bankası A.Ş., Türkiye Demir ve Çelik İşletmeleri, Filyos Ateş Tuğlası Sanayii T.A.Ş., Yarımca Porselen Sanayii T.A.Ş., Devlet Malzeme Ofisi, Çankırı Silah Sanayi ve Ticaret A.Ş., Et ve Balık Kurumu, Orman Ürünleri Sanayii Kurumu, Türkiye Elektrik Kurumu ve T.C.Posta Telgraf Telefon İşletmesi gibi kurumların kadroları bu listede yer almaktadır.  Bu değişiklik, KHK 233'ün bu kurumların kadro durumuyla ilgili hükümlerini KHK 399 ile değiştirmiş veya güncelmiştir.
+
+--------------------
+
+--- 2025-10-21 13:04:46 ---
+user_question: Dağıtım şirketi, bağlantı talebimi teknik veya ekonomik nedenlerle reddedebilir mi?
+answer: Verilen metinlerde, dağıtım şirketi bağlantı talebini reddetme koşulları açıkça belirtilmemiştir. Ancak, metinde belirtilen bazı hususlar reddetme kararını etkileyebilir.
+
+* **6446 sayılı Güncel Elektrik Piyasası Kanunu (Madde 6):** Rüzgâr ve güneş enerjisine dayalı enerji üretim tesisleri için, geçici kabul yapılana kadar pay devri yapılmaz. Pay devri yapılması durumunda bağlantı anlaşması iptal edilir. Bu durum, teknik veya ekonomik nedenlerle bağlantı talebinin reddedilmesine zemin hazırlayabilir.
+* **Bağlantılar:** Metin, 6446 sayılı Güncel Elektrik Piyasası Kanunu'nun ilgili maddeleri ile "Elektrik Piyasasında Üretim Faaliyetinde Bulunmak Üzere Su Kullanım Hakkı Anlaşması İmzalanmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik" arasında bağlantılar kurmaktadır.
+
+Bu bağlamda, teknolojik veya ekonomik nedenlerle bağlantı talebinin reddedilmesinin mümkün olup olmadığı tam olarak bilinmemektedir. Ancak, bağlantı talebini reddetme yetkisi, 6446 sayılı Güncel Elektrik Piyasası Kanunu'nda ve ilgili yönetmeliklerde yer alan hükümler çerçevesinde verilmektedir.
+
+**Sonuç olarak,** metinlerde doğrudan "teknik veya ekonomik nedenlerle bağlantı talebi reddedilebilir" ifadesi bulunmamaktadır. Ancak, rüzgar ve güneş enerjisi tesisleri için geçici kabul sürecindeki kısıtlamalar ve bağlantı anlaşmasının iptali gibi durumlar, bağlantı talebinin reddedilmesine yol açabilir.
+--------------------
+
+--- 2025-10-21 13:07:02 ---
+user_question: Kendi çatımda güneş paneli kurup ürettiğim elektriğin fazlasını satabilir miyim, bunun kuralları nedir?
+answer: Bu sorunun cevabı, sağladığınız Bağlamlardaki dokümanlarda yer alıyor. İşte elektrik enerjisini fazlasını satabileceğinizle ilgili kurallar ve bu kuralları sağlayan dokümanlar:
+
+**Temel Kurallar:**
+
+1.  **6446 sayılı Güncel Elektrik Piyasası Kanunu'na Göre:** Kendi çatınızda kurduğunuz güneş paneli ile ürettiğiniz elektriğin fazlasını satmak, belirli şartlar altında mümkündür. Bu kanun, bu tür üretim faaliyetlerini düzenlemekte ve gereklilikler belirlemektedir.
+
+2.  **6446 sayılı Güncel Elektrik Piyasası Kanunu'nun maddeleri:**
+
+    *   **Madde 14:** Bu madde, güneş ve rüzgar enerjisi üretim faaliyetlerini yaparken, aynı şirketinin dağıtım bölgesinde faaliyet göstermesini engellemektedir. Bu durum, kendi çatınızda üretim yaparsanız, o elektriği doğrudan satma imkanınızı kısıtlayabilir.
+    *   **Madde 14:** "şirketinin dağıtım bölgesinde, bu madde kapsamında rüzgâr ve güneş enerjisi üretim faaliyeti başvurusunda bulunamaz."
+
+**Ek Bilgiler ve Hususlar:**
+
+*   **Üretim Fazlasının Satışı:** Bu tür bir işlem için, elektrik piyasasına üreteci satmak üzere bir lisans almanız ve gerekli izinleri almanız gerekir.
+*   **Enerji Piyasası Desteği Programları:** Enerji Piyasası Desteği Programları, güneş enerjisi gibi yenilenebilir enerji kaynaklarından elde edilen elektriğin ticaretini teşvik etmektedir. Bu programlar, bu tür işlemler için belirli kurallar ve sübvansiyonlar sağlayabilir.
+
+**Sonuç:**
+
+Kendi çatınızda kurduğunuz güneş paneli ile ürettiğiniz elektriğin fazlasını satmak, 6446 sayılı Güncel Elektrik Piyasası Kanunu’na ve diğer ilgili düzenlemelere uygun olarak mümkündür. Bu nedenle, ilgili yasal kuralları ve düzenlemeleri dikkatle incelemeniz ve gerekli izinleri almanız önemlidir.
+
+Umarım bu bilgiler sorunuzu yanıtlamaya yardımcı olur.
+--------------------
+
+--- 2025-10-21 13:08:41 ---
+user_question: Elektrik kesintisi veya kalitesiz elektrik nedeniyle bir zarara uğrarsam bunu kimden talep edebilirim?
+answer: Verilen bilgilere göre, elektrik kesintisi veya kalitesiz elektrik nedeniyle bir zarara uğrarken aşağıdaki kurumları veya kişilerden talepte bulunabilirsiniz:
+
+1. **Dağıtım Şirketi:**  Verilen metne göre, dağıtım şirketi sayaçların okunması, bakımı ve işletilmesi hizmetlerinin yanı sıra, **genel aydınlatma, dağıtım sistemi teknik ve teknik olmayan kayıplarını karşılamak amacıyla kullanılan elektrik enerjisinin satın alınması** ile sistem teknik ve teknik olmayan kayıplarını karşılamak için sözleşmeye bağlanan enerjinin gerçekleşmeler nedeniyle fazlasının satışı ile ilgili sorumluluğu taşır. Bu nedenle, elektrik kesintisi veya kalitesizliği dağıtım şirketiyle yapılan sözleşmeye dayanarak talepte bulunabilirsiniz.
+
+2. **Enerji Piyasası Düzenleme Kurumu (EPDK):**  EPDK, elektrik piyasasının düzenlenmesi ve tüketicinin korunmasıyla görevlidir. Eğer dağıtım şirketiyle anlaşamazsanız, EPDK'ya şikayette bulunarak EPDK’nın müdahalesini talep edebilirsiniz.
+
+**Özetle:** Öncelikle dağıtım şirketiyle iletişime geçerek durumu çözmeye çalışın. Eğer bu mümkün olmazsa, EPDK’ya şikayette bulunarak yardım talep edebilirsiniz.
+
+**Ek Bilgi:**  "6446 sayılı Güncel Elektrik Piyasası Kanunu"  madde 9, dağıtım şirketiyle yapılan sözleşmelerin ve tüketicinin haklarının detaylarını belirtiyor. Bu maddeyi inceleyerek haklarınızı daha iyi anlayabilirsiniz.
+
+--------------------
+
